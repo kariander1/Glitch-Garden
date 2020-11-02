@@ -1,0 +1,2191 @@
+fileFormatVersion: 2
+guid: a26b18b7daf68d84eb3283eeaab5f797
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2638762982202719784
+    second: Jabb Attack_0
+  - first:
+      213: -8948966630469872292
+    second: Jabb Attack_1
+  - first:
+      213: -2730790690895165044
+    second: Jabb Attack_2
+  - first:
+      213: -8774450283436707726
+    second: Jabb Attack_3
+  - first:
+      213: 4866796302393583662
+    second: Jabb Attack_4
+  - first:
+      213: 123202894055765097
+    second: Jabb Attack_5
+  - first:
+      213: 4756339190397162347
+    second: Jabb Attack_6
+  - first:
+      213: 8889012225634428430
+    second: Jabb Attack_7
+  - first:
+      213: 4612436403182819331
+    second: Jabb Attack_8
+  - first:
+      213: 3269887060288473087
+    second: Jabb Attack_9
+  - first:
+      213: -3809950723362274453
+    second: Jabb Attack_10
+  - first:
+      213: -647491866177497068
+    second: Jabb Attack_11
+  - first:
+      213: 6477901964773998393
+    second: Jabb Attack_12
+  - first:
+      213: 9146171748769459357
+    second: Jabb Attack_13
+  - first:
+      213: 8552203474298312879
+    second: Jabb Attack_14
+  - first:
+      213: -5362103333984032389
+    second: Jabb Attack_15
+  - first:
+      213: 7173644044460377344
+    second: Jabb Attack_16
+  - first:
+      213: 8724626653219461454
+    second: Jabb Attack_17
+  - first:
+      213: 5206370358356714930
+    second: Jabb Attack_18
+  - first:
+      213: 476895657619348663
+    second: Jabb Attack_19
+  - first:
+      213: 5730960894945674930
+    second: Jabb Attack_20
+  - first:
+      213: 564180578608832777
+    second: Jabb Attack_21
+  - first:
+      213: 4088245828803062896
+    second: Jabb Attack_22
+  - first:
+      213: -8029177724662403746
+    second: Jabb Attack_23
+  - first:
+      213: 4026496648015784016
+    second: Jabb Attack_24
+  - first:
+      213: -4338284341731624452
+    second: Jabb Attack_25
+  - first:
+      213: -7169439138174378552
+    second: Jabb Attack_26
+  - first:
+      213: 4852618089211584711
+    second: Jabb Attack_27
+  - first:
+      213: -3992650067273456627
+    second: Jabb Attack_28
+  - first:
+      213: 4626868336901237101
+    second: Jabb Attack_29
+  - first:
+      213: 8829177972301195859
+    second: Jabb Attack_30
+  - first:
+      213: 4335532817887948171
+    second: Jabb Attack_31
+  - first:
+      213: -1789762440603110380
+    second: Jabb Attack_32
+  - first:
+      213: 7671642500906609282
+    second: Jabb Attack_33
+  - first:
+      213: 3646229899477872513
+    second: Jabb Attack_34
+  - first:
+      213: 2105001114472293710
+    second: Jabb Attack_35
+  - first:
+      213: -3678462897135501193
+    second: Jabb Attack_36
+  - first:
+      213: 5594891166481461443
+    second: Jabb Attack_37
+  - first:
+      213: -2430759571541815573
+    second: Jabb Attack_38
+  - first:
+      213: 6099013119234059145
+    second: Jabb Attack_39
+  - first:
+      213: 4091014818758466227
+    second: Jabb Attack_40
+  - first:
+      213: 2396740400180697499
+    second: Jabb Attack_41
+  - first:
+      213: 551572051413181679
+    second: Jabb Attack_42
+  - first:
+      213: -2142151849005819821
+    second: Jabb Attack_43
+  - first:
+      213: -902486656446561962
+    second: Jabb Attack_44
+  - first:
+      213: -4257957307773444428
+    second: Jabb Attack_45
+  - first:
+      213: -154763758715170822
+    second: Jabb Attack_46
+  - first:
+      213: -3712917763474307615
+    second: Jabb Attack_47
+  - first:
+      213: 1088327297493457615
+    second: Jabb Attack_48
+  - first:
+      213: 4620582496507157902
+    second: Jabb Attack_49
+  - first:
+      213: -7298062416971315736
+    second: Jabb Attack_50
+  - first:
+      213: 7267069476528961257
+    second: Jabb Attack_51
+  - first:
+      213: -1304465310635609254
+    second: Jabb Attack_52
+  - first:
+      213: -1387062624320507381
+    second: Jabb Attack_53
+  - first:
+      213: -3641555106854369641
+    second: Jabb Attack_54
+  - first:
+      213: -8768629174758314223
+    second: Jabb Attack_55
+  - first:
+      213: 5240676259753598829
+    second: Jabb Attack_56
+  - first:
+      213: 9009047657002516885
+    second: Jabb Attack_57
+  - first:
+      213: 2647457875563380616
+    second: Jabb Attack_58
+  - first:
+      213: -231138329163202389
+    second: Jabb Attack_59
+  - first:
+      213: -1305737183335147726
+    second: Jabb Attack_60
+  - first:
+      213: 2489550874478319460
+    second: Jabb Attack_61
+  - first:
+      213: 2089570586860656104
+    second: Jabb Attack_62
+  - first:
+      213: -5409412514746108846
+    second: Jabb Attack_63
+  - first:
+      213: 6711193914411016694
+    second: Jabb Attack_64
+  - first:
+      213: -2133575633001203749
+    second: Jabb Attack_65
+  - first:
+      213: 8867157812378219487
+    second: Jabb Attack_66
+  - first:
+      213: 3228858498478534056
+    second: Jabb Attack_67
+  - first:
+      213: -2615721937285807478
+    second: Jabb Attack_68
+  - first:
+      213: 6398173504785890949
+    second: Jabb Attack_69
+  - first:
+      213: 1511431216940258448
+    second: Jabb Attack_70
+  - first:
+      213: -8296135358374581027
+    second: Jabb Attack_71
+  - first:
+      213: 4853320461958913631
+    second: Jabb Attack_72
+  - first:
+      213: 2641296758121401812
+    second: Jabb Attack_73
+  - first:
+      213: 795292007991511001
+    second: Jabb Attack_74
+  - first:
+      213: -1538877318470578994
+    second: Jabb Attack_75
+  - first:
+      213: -4687129978291386746
+    second: Jabb Attack_76
+  - first:
+      213: 3842848259687840329
+    second: Jabb Attack_77
+  - first:
+      213: 1569059823499459612
+    second: Jabb Attack_78
+  - first:
+      213: 7321602430455506482
+    second: Jabb Attack_79
+  - first:
+      213: -6398718617101961653
+    second: Jabb Attack_80
+  - first:
+      213: -2869074140711357730
+    second: Jabb Attack_81
+  - first:
+      213: 934541240076470155
+    second: Jabb Attack_82
+  - first:
+      213: -3331171931942737479
+    second: Jabb Attack_83
+  - first:
+      213: 7308255859651602896
+    second: Jabb Attack_84
+  - first:
+      213: -7340897636417262718
+    second: Jabb Attack_85
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jabb Attack_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1809
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36426aa932f8ce4e86be167896bc877
+      internalID: -2638762982202719784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_1
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1809
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7013cacf951fdb48bfd7fcb729dd4ea
+      internalID: -8948966630469872292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_2
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1809
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214f90a9187546d4182ed5db0e254393
+      internalID: -2730790690895165044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_3
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1809
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28c8deaedb38e84d9cc3bcbc9812cc1
+      internalID: -8774450283436707726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_4
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 1809
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fbb2afe5a0b8f42978a90ae899f3f3
+      internalID: 4866796302393583662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_5
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 1809
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0f0395b3c0e9f42b7c80d5ed825b65
+      internalID: 123202894055765097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_6
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 1809
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223cefc14a8bc6040aa1fb2c5d3af04b
+      internalID: 4756339190397162347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_7
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 1809
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b69c5e8d0f1b04291919fc71fbb54f
+      internalID: 8889012225634428430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_8
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 1809
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824906197ea0a594b9e89db22ef03b2d
+      internalID: 4612436403182819331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1608
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95994fd89fe772444a56e96dfeba9c78
+      internalID: 3269887060288473087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_10
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1608
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf208e14807c46942afa715865889839
+      internalID: -3809950723362274453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_11
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1608
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7c1ef1151089d4f953c6273865f674
+      internalID: -647491866177497068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_12
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1608
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f8417a4b3507741ab94032d3231708
+      internalID: 6477901964773998393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_13
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 1608
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80113d87caf2344fa01ba5d8cadddbb
+      internalID: 9146171748769459357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_14
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 1608
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4088edfd36117f4085aae17daf9fa9b
+      internalID: 8552203474298312879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_15
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 1608
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ee374b508e80d49b9bcf9c70ddcc82
+      internalID: -5362103333984032389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_16
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 1608
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716974c5a4ac16a47b8aa510e4881d79
+      internalID: 7173644044460377344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_17
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 1608
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d6ff0e3a99e9b45a8062ffe598b67e
+      internalID: 8724626653219461454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1407
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01559e8d6cad6684ba2af6affae7f26c
+      internalID: 5206370358356714930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_19
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1407
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0524a19455e371642b043ee6c7f9bbe5
+      internalID: 476895657619348663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_20
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1407
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4db18d3df69e0c489a417ac14d74bba
+      internalID: 5730960894945674930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_21
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1407
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd77316b801fb5a419c0918036551dee
+      internalID: 564180578608832777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_22
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 1407
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ccb89c95896c1478fc4937aa866c7e
+      internalID: 4088245828803062896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_23
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 1407
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9476b6404de30ff4e8e582b1fe5b17eb
+      internalID: -8029177724662403746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_24
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 1407
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178141e3c6f7f164f93f564fb7809bca
+      internalID: 4026496648015784016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_25
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 1407
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e6ca849f7cd814b96f9356fb3ccac8
+      internalID: -4338284341731624452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_26
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 1407
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1908244908c39449bbc74aa3b7c3dc9
+      internalID: -7169439138174378552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1206
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b883281a923d8b544a7915ecf6b439b1
+      internalID: 4852618089211584711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_28
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1206
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79239cdf7829fa748b1d53b54fc7b097
+      internalID: -3992650067273456627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_29
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1206
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6920d2eaa8f29b4795946fbdb0d593d
+      internalID: 4626868336901237101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_30
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1206
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3e80f908cad91489a4e051eeed1d3d
+      internalID: 8829177972301195859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_31
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 1206
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906965502bbc07148b23abd7adc7b4bc
+      internalID: 4335532817887948171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_32
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 1206
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ea455ebb1b3824589068f4ea53bde9
+      internalID: -1789762440603110380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_33
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 1206
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b849d325439fbf343b0c35cec67cfdf8
+      internalID: 7671642500906609282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_34
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 1206
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ba63f7df9691c46a5e75bddef4197f
+      internalID: 3646229899477872513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_35
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 1206
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044ea3b932d9c2b4a85fb3fd76c90291
+      internalID: 2105001114472293710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1005
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23242a4e65f5f24fbdb2c3a7072f49e
+      internalID: -3678462897135501193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_37
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1005
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb389b172b0d5b479755f933e93b31b
+      internalID: 5594891166481461443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_38
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1005
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5595c75f8015a0b48879f67137bc914b
+      internalID: -2430759571541815573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_39
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1005
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe8d325598417143ba427bf304081d3
+      internalID: 6099013119234059145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_40
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 1005
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7597e8f8ddbc06442bbf726e1fb8f4d5
+      internalID: 4091014818758466227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_41
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 1005
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99bb7a582ec34f45bfd66fd74ee752b
+      internalID: 2396740400180697499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_42
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 1005
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3c5f77157ceab4ebf11c654368cafd
+      internalID: 551572051413181679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_43
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 1005
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef9ef620c2496c48a13e1315f991cc9
+      internalID: -2142151849005819821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_44
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 1005
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602992f2daae55240b163fe22194522e
+      internalID: -902486656446561962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 804
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e254c227d8bdfdb44b0b3f74b8b4d2aa
+      internalID: -4257957307773444428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_46
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 804
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391a582da1f9a5c459dfff25da9b771e
+      internalID: -154763758715170822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_47
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 804
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4b62c58efe43b4ca6a3f2abdbf9b1f
+      internalID: -3712917763474307615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_48
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 804
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5357ef631493676428e5c4b26c18c76c
+      internalID: 1088327297493457615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_49
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 804
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32a6f3cf44607c4abca6790ca27ea99
+      internalID: 4620582496507157902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_50
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 804
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d91f4f3e3d69fc40aeb2603fca7b13c
+      internalID: -7298062416971315736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_51
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 804
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebec0e15cae30884ab0b87a3893c838c
+      internalID: 7267069476528961257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_52
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 804
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feabd34ea258dec499ab4e2843e7f77d
+      internalID: -1304465310635609254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_53
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 804
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef928a7ae1d9434191a786cfff8b578
+      internalID: -1387062624320507381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 603
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e27b539df5ceb44f86df1e623bb85d1
+      internalID: -3641555106854369641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_55
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 603
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abec317e323e4fc4ea1ad775ba33c71e
+      internalID: -8768629174758314223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_56
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 603
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dabba751cd1aa341aed5d2e72922dfa
+      internalID: 5240676259753598829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_57
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 603
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8209a4736052d458d91579055aa43c
+      internalID: 9009047657002516885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_58
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 603
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e8f49a5c1480c40b359eb2f6615702
+      internalID: 2647457875563380616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_59
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 603
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df54d15e460d40c47843ba85270a1770
+      internalID: -231138329163202389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_60
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 603
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e564974aed2422144921340c9892bec0
+      internalID: -1305737183335147726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_61
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 603
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d2a1084982f1941a5e28b1c3786d6d
+      internalID: 2489550874478319460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_62
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 603
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdceb7c80c8cf1e43bd4974fb41f117a
+      internalID: 2089570586860656104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 402
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84912cc0fa1be4d43846a5e0fc277a86
+      internalID: -5409412514746108846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_64
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 402
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff09ee1d3fc4f54287948a0b8e6e7a1
+      internalID: 6711193914411016694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_65
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 402
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca297f1284ce55241957a1b1fa5f4b6e
+      internalID: -2133575633001203749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_66
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 402
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0f54ca6a524dc4fb7da06045ab1b22
+      internalID: 8867157812378219487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_67
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 402
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed659efcae1efd4081f68f6fbc9036d
+      internalID: 3228858498478534056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_68
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 402
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160dcdc482f222141b4fdad77aea31fd
+      internalID: -2615721937285807478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_69
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 402
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e491cce3a94d0841821d3747b50ce1e
+      internalID: 6398173504785890949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_70
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 402
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1449f600610b2f49bbd04a892df5aea
+      internalID: 1511431216940258448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_71
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 402
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e79f3272f24f24ba5766573d059671
+      internalID: -8296135358374581027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 201
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6160866552eb18c46895cd03ebfa6b81
+      internalID: 4853320461958913631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_73
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 201
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05e8d681c697234cb86bf5ba44b7205
+      internalID: 2641296758121401812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_74
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 201
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10794eb0d3cdeae42b8669c737d5c90f
+      internalID: 795292007991511001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_75
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 201
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba956d426581184b8bb2fa3747ff893
+      internalID: -1538877318470578994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_76
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 201
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7ccade14550724892abc87fde1fa35
+      internalID: -4687129978291386746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_77
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 201
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e66f683ae7fd5149a03c7c4adcd3f1c
+      internalID: 3842848259687840329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_78
+      rect:
+        serializedVersion: 2
+        x: 2634
+        y: 201
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7a2355e60cb4e4f91d1417a8e76cd2
+      internalID: 1569059823499459612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_79
+      rect:
+        serializedVersion: 2
+        x: 3073
+        y: 201
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e0eca2c8721c94b9eda7d6c78cb32f
+      internalID: 7321602430455506482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_80
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 201
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92e37d949d5370409c8f56466885f38
+      internalID: -6398718617101961653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379bf0d810a8f52488f0220109c54990
+      internalID: -2869074140711357730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_82
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 0
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e2f341e2335f64e8280f671c5990a3
+      internalID: 934541240076470155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_83
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 0
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34406ad484dca174a8c7f029cfbf32b2
+      internalID: -3331171931942737479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_84
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 0
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10657fd3268099547b590dc4a90bcae6
+      internalID: 7308255859651602896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jabb Attack_85
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 0
+        width: 439
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94de2d81576322140b8d42cdaf787a84
+      internalID: -7340897636417262718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

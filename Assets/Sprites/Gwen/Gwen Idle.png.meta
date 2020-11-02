@@ -1,0 +1,2179 @@
+fileFormatVersion: 2
+guid: 0ba05416f42189a44b23ef41d4782111
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1370583687091837856
+    second: npc_gwendolyn__x1_idle_png_1354832938_0
+  - first:
+      213: -335507222053592897
+    second: npc_gwendolyn__x1_idle_png_1354832938_1
+  - first:
+      213: -8229348858212140891
+    second: npc_gwendolyn__x1_idle_png_1354832938_2
+  - first:
+      213: 3494810855014775322
+    second: npc_gwendolyn__x1_idle_png_1354832938_3
+  - first:
+      213: 793400455065706312
+    second: npc_gwendolyn__x1_idle_png_1354832938_4
+  - first:
+      213: -6992044247722202354
+    second: npc_gwendolyn__x1_idle_png_1354832938_5
+  - first:
+      213: -4785685288840821639
+    second: npc_gwendolyn__x1_idle_png_1354832938_6
+  - first:
+      213: 4024006823043028753
+    second: npc_gwendolyn__x1_idle_png_1354832938_7
+  - first:
+      213: -8747320809544976414
+    second: npc_gwendolyn__x1_idle_png_1354832938_8
+  - first:
+      213: 3691889084160774077
+    second: npc_gwendolyn__x1_idle_png_1354832938_9
+  - first:
+      213: 4901528766522536140
+    second: npc_gwendolyn__x1_idle_png_1354832938_10
+  - first:
+      213: -3508030046464406094
+    second: npc_gwendolyn__x1_idle_png_1354832938_11
+  - first:
+      213: 7534481285718607619
+    second: npc_gwendolyn__x1_idle_png_1354832938_12
+  - first:
+      213: 698152993241675692
+    second: npc_gwendolyn__x1_idle_png_1354832938_13
+  - first:
+      213: 2578829487533515142
+    second: npc_gwendolyn__x1_idle_png_1354832938_14
+  - first:
+      213: -6025965393358302316
+    second: npc_gwendolyn__x1_idle_png_1354832938_15
+  - first:
+      213: -2820212534114553624
+    second: npc_gwendolyn__x1_idle_png_1354832938_16
+  - first:
+      213: -100437501418502529
+    second: npc_gwendolyn__x1_idle_png_1354832938_17
+  - first:
+      213: 2371242486198716494
+    second: npc_gwendolyn__x1_idle_png_1354832938_18
+  - first:
+      213: 5273505102166897649
+    second: npc_gwendolyn__x1_idle_png_1354832938_19
+  - first:
+      213: -4371854869068157554
+    second: npc_gwendolyn__x1_idle_png_1354832938_20
+  - first:
+      213: 5067935288438462885
+    second: npc_gwendolyn__x1_idle_png_1354832938_21
+  - first:
+      213: -2300383993487538470
+    second: npc_gwendolyn__x1_idle_png_1354832938_22
+  - first:
+      213: -5110267800421590377
+    second: npc_gwendolyn__x1_idle_png_1354832938_23
+  - first:
+      213: 9122868320550538763
+    second: npc_gwendolyn__x1_idle_png_1354832938_24
+  - first:
+      213: -7134384982526758906
+    second: npc_gwendolyn__x1_idle_png_1354832938_25
+  - first:
+      213: 4001177335835572037
+    second: npc_gwendolyn__x1_idle_png_1354832938_26
+  - first:
+      213: 7544057497072009848
+    second: npc_gwendolyn__x1_idle_png_1354832938_27
+  - first:
+      213: -4428227096597557518
+    second: npc_gwendolyn__x1_idle_png_1354832938_28
+  - first:
+      213: -8747276942049892942
+    second: npc_gwendolyn__x1_idle_png_1354832938_29
+  - first:
+      213: 5430879157715059208
+    second: npc_gwendolyn__x1_idle_png_1354832938_30
+  - first:
+      213: 7790970827592695164
+    second: npc_gwendolyn__x1_idle_png_1354832938_31
+  - first:
+      213: -2418350544623008273
+    second: npc_gwendolyn__x1_idle_png_1354832938_32
+  - first:
+      213: 1272581239294941480
+    second: npc_gwendolyn__x1_idle_png_1354832938_33
+  - first:
+      213: -661798717740148022
+    second: npc_gwendolyn__x1_idle_png_1354832938_34
+  - first:
+      213: 1177657446505892555
+    second: npc_gwendolyn__x1_idle_png_1354832938_35
+  - first:
+      213: -7729812004315795644
+    second: npc_gwendolyn__x1_idle_png_1354832938_36
+  - first:
+      213: 4745144648136268772
+    second: npc_gwendolyn__x1_idle_png_1354832938_37
+  - first:
+      213: -6885481621549434179
+    second: npc_gwendolyn__x1_idle_png_1354832938_38
+  - first:
+      213: -1706088226030839439
+    second: npc_gwendolyn__x1_idle_png_1354832938_39
+  - first:
+      213: 5145896974971683814
+    second: npc_gwendolyn__x1_idle_png_1354832938_40
+  - first:
+      213: -420810473438374790
+    second: npc_gwendolyn__x1_idle_png_1354832938_41
+  - first:
+      213: -5151702431693459022
+    second: npc_gwendolyn__x1_idle_png_1354832938_42
+  - first:
+      213: 367909614221845504
+    second: npc_gwendolyn__x1_idle_png_1354832938_43
+  - first:
+      213: 1793654140655645416
+    second: npc_gwendolyn__x1_idle_png_1354832938_44
+  - first:
+      213: 8659991266110558325
+    second: npc_gwendolyn__x1_idle_png_1354832938_45
+  - first:
+      213: 5920036269234451436
+    second: npc_gwendolyn__x1_idle_png_1354832938_46
+  - first:
+      213: 4774273432902508885
+    second: npc_gwendolyn__x1_idle_png_1354832938_47
+  - first:
+      213: 7478426579479046352
+    second: npc_gwendolyn__x1_idle_png_1354832938_48
+  - first:
+      213: -8652684770863561290
+    second: npc_gwendolyn__x1_idle_png_1354832938_49
+  - first:
+      213: 9203287514013579199
+    second: npc_gwendolyn__x1_idle_png_1354832938_50
+  - first:
+      213: -3200927567941881635
+    second: npc_gwendolyn__x1_idle_png_1354832938_51
+  - first:
+      213: 2824392119431140789
+    second: npc_gwendolyn__x1_idle_png_1354832938_52
+  - first:
+      213: -7260600140756027400
+    second: npc_gwendolyn__x1_idle_png_1354832938_53
+  - first:
+      213: -2393700860607466743
+    second: npc_gwendolyn__x1_idle_png_1354832938_54
+  - first:
+      213: 7139431431419247100
+    second: npc_gwendolyn__x1_idle_png_1354832938_55
+  - first:
+      213: 4764752726642730827
+    second: npc_gwendolyn__x1_idle_png_1354832938_56
+  - first:
+      213: 3701440520739735174
+    second: npc_gwendolyn__x1_idle_png_1354832938_57
+  - first:
+      213: 1742595945928957833
+    second: npc_gwendolyn__x1_idle_png_1354832938_58
+  - first:
+      213: -6765726073276937713
+    second: npc_gwendolyn__x1_idle_png_1354832938_59
+  - first:
+      213: 6166693834636714293
+    second: npc_gwendolyn__x1_idle_png_1354832938_60
+  - first:
+      213: 3890226782899051470
+    second: npc_gwendolyn__x1_idle_png_1354832938_61
+  - first:
+      213: 1298396031399996703
+    second: npc_gwendolyn__x1_idle_png_1354832938_62
+  - first:
+      213: 1899027023262150496
+    second: npc_gwendolyn__x1_idle_png_1354832938_63
+  - first:
+      213: 1875784068601503966
+    second: npc_gwendolyn__x1_idle_png_1354832938_64
+  - first:
+      213: 4229469457182693967
+    second: npc_gwendolyn__x1_idle_png_1354832938_65
+  - first:
+      213: -8501752237740611231
+    second: npc_gwendolyn__x1_idle_png_1354832938_66
+  - first:
+      213: 5574116984495507144
+    second: npc_gwendolyn__x1_idle_png_1354832938_67
+  - first:
+      213: 8559040501010180862
+    second: npc_gwendolyn__x1_idle_png_1354832938_68
+  - first:
+      213: 7905537317701317911
+    second: npc_gwendolyn__x1_idle_png_1354832938_69
+  - first:
+      213: 8882616566593144071
+    second: npc_gwendolyn__x1_idle_png_1354832938_70
+  - first:
+      213: 2828713106874111933
+    second: npc_gwendolyn__x1_idle_png_1354832938_71
+  - first:
+      213: -805388703812881044
+    second: npc_gwendolyn__x1_idle_png_1354832938_72
+  - first:
+      213: 5915997658307213524
+    second: npc_gwendolyn__x1_idle_png_1354832938_73
+  - first:
+      213: 1797132543216628249
+    second: npc_gwendolyn__x1_idle_png_1354832938_74
+  - first:
+      213: 3204625886454420122
+    second: npc_gwendolyn__x1_idle_png_1354832938_75
+  - first:
+      213: -8223015910568483296
+    second: Gwen Idle_0
+  - first:
+      213: 7657550148056070152
+    second: Gwen Idle_1
+  - first:
+      213: 8718826089695848440
+    second: Gwen Idle_2
+  - first:
+      213: 2430371014390798965
+    second: Gwen Idle_3
+  - first:
+      213: -1794401731557395983
+    second: Gwen Idle_4
+  - first:
+      213: -3543372114011805906
+    second: Gwen Idle_5
+  - first:
+      213: 2634620882385387404
+    second: Gwen Idle_6
+  - first:
+      213: -9065483842468368057
+    second: Gwen Idle_7
+  - first:
+      213: -4178160453091595918
+    second: Gwen Idle_8
+  - first:
+      213: 4800669746780718080
+    second: Gwen Idle_9
+  - first:
+      213: -7168244471769167307
+    second: Gwen Idle_10
+  - first:
+      213: -4234932967367149933
+    second: Gwen Idle_11
+  - first:
+      213: 2729510362996587179
+    second: Gwen Idle_12
+  - first:
+      213: -4799299595317193398
+    second: Gwen Idle_13
+  - first:
+      213: -745834380990772712
+    second: Gwen Idle_14
+  - first:
+      213: -9001097799126413543
+    second: Gwen Idle_15
+  - first:
+      213: -9207978036988963775
+    second: Gwen Idle_16
+  - first:
+      213: 8262581711523237969
+    second: Gwen Idle_17
+  - first:
+      213: -3578926914164382463
+    second: Gwen Idle_18
+  - first:
+      213: 4089983129211211377
+    second: Gwen Idle_19
+  - first:
+      213: 124372759544600446
+    second: Gwen Idle_20
+  - first:
+      213: -5011513482522904019
+    second: Gwen Idle_21
+  - first:
+      213: -1996396784063565338
+    second: Gwen Idle_22
+  - first:
+      213: 568640849215125897
+    second: Gwen Idle_23
+  - first:
+      213: -4222443109363750254
+    second: Gwen Idle_24
+  - first:
+      213: -93361344969099722
+    second: Gwen Idle_25
+  - first:
+      213: 2148876165327601243
+    second: Gwen Idle_26
+  - first:
+      213: 4746729723911990017
+    second: Gwen Idle_27
+  - first:
+      213: 8599982305391341567
+    second: Gwen Idle_28
+  - first:
+      213: 6773279925087170330
+    second: Gwen Idle_29
+  - first:
+      213: 7039310794544222863
+    second: Gwen Idle_30
+  - first:
+      213: -2378323628956607415
+    second: Gwen Idle_31
+  - first:
+      213: -4672383413547398193
+    second: Gwen Idle_32
+  - first:
+      213: 1047141940955215422
+    second: Gwen Idle_33
+  - first:
+      213: -5029227225330819972
+    second: Gwen Idle_34
+  - first:
+      213: -1445208561897860019
+    second: Gwen Idle_35
+  - first:
+      213: -365295535993273091
+    second: Gwen Idle_36
+  - first:
+      213: 7559384036936194080
+    second: Gwen Idle_37
+  - first:
+      213: 8984840004571983903
+    second: Gwen Idle_38
+  - first:
+      213: 5818410024576051925
+    second: Gwen Idle_39
+  - first:
+      213: 8404543428777533904
+    second: Gwen Idle_40
+  - first:
+      213: 5242841392299716229
+    second: Gwen Idle_41
+  - first:
+      213: 5059851523714447232
+    second: Gwen Idle_42
+  - first:
+      213: -951275282015742732
+    second: Gwen Idle_43
+  - first:
+      213: 9021417326207714713
+    second: Gwen Idle_44
+  - first:
+      213: 8940491011708584165
+    second: Gwen Idle_45
+  - first:
+      213: -1755339292051387331
+    second: Gwen Idle_46
+  - first:
+      213: 7530631936511674859
+    second: Gwen Idle_47
+  - first:
+      213: -427135173114962606
+    second: Gwen Idle_48
+  - first:
+      213: 7090560085182579031
+    second: Gwen Idle_49
+  - first:
+      213: 3617738628952812175
+    second: Gwen Idle_50
+  - first:
+      213: -6035550513484750860
+    second: Gwen Idle_51
+  - first:
+      213: 3005960542266890448
+    second: Gwen Idle_52
+  - first:
+      213: -4797136775894747882
+    second: Gwen Idle_53
+  - first:
+      213: -7519380456868547201
+    second: Gwen Idle_54
+  - first:
+      213: -2418692447358225163
+    second: Gwen Idle_55
+  - first:
+      213: 7436449654559234903
+    second: Gwen Idle_56
+  - first:
+      213: -4963331700194548659
+    second: Gwen Idle_57
+  - first:
+      213: 8321996539415463499
+    second: Gwen Idle_58
+  - first:
+      213: 7666980016984651844
+    second: Gwen Idle_59
+  - first:
+      213: -2233428650304375044
+    second: Gwen Idle_60
+  - first:
+      213: -1965266350384738439
+    second: Gwen Idle_61
+  - first:
+      213: -6615966180482289059
+    second: Gwen Idle_62
+  - first:
+      213: -8335805777898631648
+    second: Gwen Idle_63
+  - first:
+      213: -3391624184525596989
+    second: Gwen Idle_64
+  - first:
+      213: 1698183782976869394
+    second: Gwen Idle_65
+  - first:
+      213: -1607847594145888134
+    second: Gwen Idle_66
+  - first:
+      213: -3008943978485911907
+    second: Gwen Idle_67
+  - first:
+      213: 5344782861863914156
+    second: Gwen Idle_68
+  - first:
+      213: -1734080158870832122
+    second: Gwen Idle_69
+  - first:
+      213: -3557750014796647937
+    second: Gwen Idle_70
+  - first:
+      213: -7590958678785538843
+    second: Gwen Idle_71
+  - first:
+      213: 155926069557951516
+    second: Gwen Idle_72
+  - first:
+      213: 1336476713944372266
+    second: Gwen Idle_73
+  - first:
+      213: -2640348253458368254
+    second: Gwen Idle_74
+  - first:
+      213: 6417599249277795713
+    second: Gwen Idle_75
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gwen Idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1719
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f416a262630b88c4abf93b0a829eea03
+      internalID: -8223015910568483296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1719
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a10c19a3d08f247a33a6ee816f51a1
+      internalID: 7657550148056070152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_2
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1719
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea09a51bacc7ecb4597a324d795d88fb
+      internalID: 8718826089695848440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_3
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1719
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937d5f6af6eb6e8479bf51b5a426ffa8
+      internalID: 2430371014390798965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_4
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1719
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8ec6b84926597409985fb2795eb973
+      internalID: -1794401731557395983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_5
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1719
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a83f61da8e61f4485cb20978331c2d
+      internalID: -3543372114011805906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_6
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1719
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020945006a0012e4e89d15a19b3e7782
+      internalID: 2634620882385387404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_7
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1719
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7ca0de2e090944dae495d451f33dc6
+      internalID: -9065483842468368057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1528
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efbbb278e00c364c8c5d7e457d55955
+      internalID: -4178160453091595918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_9
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1528
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6564a3c5698278142a1deabf71db9e19
+      internalID: 4800669746780718080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_10
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1528
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62224a950c32327488d7c119700d28d9
+      internalID: -7168244471769167307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_11
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1528
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600631c769f57614fb85b319af85a01d
+      internalID: -4234932967367149933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_12
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1528
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e1b225d17f8ea4db83f8547296f167
+      internalID: 2729510362996587179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_13
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1528
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f65a2d39101954f8961e0a907f6b29
+      internalID: -4799299595317193398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_14
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1528
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f903da50ef55c4245a65c0bee7f7151d
+      internalID: -745834380990772712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_15
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1528
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5c58e5c3c52a34691a2f6faa7ecbce
+      internalID: -9001097799126413543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1337
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd16eec27451ab045b318a25a51004d9
+      internalID: -9207978036988963775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_17
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1337
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6297c7a2f7c240f40b54b3201c2e68de
+      internalID: 8262581711523237969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_18
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1337
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af7f16cbb1e6f646be7ca406a4c5a09
+      internalID: -3578926914164382463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_19
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1337
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219310b4c5dfb1941a02b74d088d2e0c
+      internalID: 4089983129211211377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_20
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1337
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d025faf3f90314f8cdf7e36325a924
+      internalID: 124372759544600446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_21
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1337
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2f769e333c1c9408f59d8082dc364b
+      internalID: -5011513482522904019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_22
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1337
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ed8c0b690e13749afd3d9fba4d526c
+      internalID: -1996396784063565338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_23
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1337
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158d8cd848d4f764ba0353f90442220b
+      internalID: 568640849215125897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1146
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d839b4f4a19ef64fb7d6680cbf4b4e6
+      internalID: -4222443109363750254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_25
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1146
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20adb69784d8b3849bf1a17162112c93
+      internalID: -93361344969099722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_26
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1146
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26185c6712435f440943e06387f722ea
+      internalID: 2148876165327601243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_27
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1146
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0ea8679c7f4294495968715086fcbc
+      internalID: 4746729723911990017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_28
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1146
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f1b78be7fb75f4397a8983b36bc713
+      internalID: 8599982305391341567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_29
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1146
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42c5a6711157fb4394d5980ca3b707e
+      internalID: 6773279925087170330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_30
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1146
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9c0ddfd61853045bbdfeebf7788e17
+      internalID: 7039310794544222863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_31
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1146
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac02eb1dfcff09a42bebd54edef3bb24
+      internalID: -2378323628956607415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 955
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49693c7ef28c47644bb463f75cc6237d
+      internalID: -4672383413547398193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_33
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 955
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea46d1844011ae429a441020370b014
+      internalID: 1047141940955215422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_34
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 955
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56acfcf1c3241354d9a658e4a33a35ab
+      internalID: -5029227225330819972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_35
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 955
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3ff3d8cc617d548b6ae14498535717
+      internalID: -1445208561897860019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_36
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 955
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecfd9d57a3b50de41b9f402c6e20389d
+      internalID: -365295535993273091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_37
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 955
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425aee9db611c1a4682adbeb3b130240
+      internalID: 7559384036936194080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_38
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 955
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6e4160fb5fa6f46a470a8144658e26
+      internalID: 8984840004571983903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_39
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 955
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045342738522a5a4595a759e741bc597
+      internalID: 5818410024576051925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 764
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7dc3e57aa818544daa50c67af24fb96
+      internalID: 8404543428777533904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_41
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 764
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52b9c8a9a54ad344894c398da9f472a
+      internalID: 5242841392299716229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_42
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 764
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999503ba97633634a94b4123cf553b0a
+      internalID: 5059851523714447232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_43
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 764
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf03e573e5900ea4687830c8aa2564d1
+      internalID: -951275282015742732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_44
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 764
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e6db93f13f0a64099f198a026316eb
+      internalID: 9021417326207714713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_45
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 764
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f571d0bcbc2034093217f17466bcb9
+      internalID: 8940491011708584165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_46
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 764
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7777cac11b8496a4ab265c0fc637deaa
+      internalID: -1755339292051387331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_47
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 764
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127a329ed6e7e284c9c0d4299f5487f7
+      internalID: 7530631936511674859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 573
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a74df4658d4d3545ba10ccea41c252f
+      internalID: -427135173114962606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_49
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 573
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461d4fa658209d44ebed6b97fe4426d8
+      internalID: 7090560085182579031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_50
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 573
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8da179d00f60144ab1ed08034a4788d
+      internalID: 3617738628952812175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_51
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 573
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88fcc021b4b26e46bf76582648152dc
+      internalID: -6035550513484750860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_52
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 573
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437d5fd8c2c147e4e8411ebef2d406e7
+      internalID: 3005960542266890448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_53
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 573
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0b44e6a4459bb4fa5d5c4b160c9f82
+      internalID: -4797136775894747882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_54
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 573
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da553b9856313a94c8ee19d7a97f5645
+      internalID: -7519380456868547201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_55
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 573
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ad0548eca522d4dacdd6ad24774607
+      internalID: -2418692447358225163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 382
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8abd3cef227ad04ab543c66a7eee27f
+      internalID: 7436449654559234903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_57
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 382
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996b4596b720e364788d4c30ed6371df
+      internalID: -4963331700194548659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_58
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 382
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8c508ed1617fd479390adb5efb8832
+      internalID: 8321996539415463499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_59
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 382
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccc094a1ac6d914097ed91c3f56e3af
+      internalID: 7666980016984651844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_60
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 382
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c97a1a876468d44aa8cdea39d9b529
+      internalID: -2233428650304375044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_61
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 382
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabe9ae7fe21f364597d42cfe190e738
+      internalID: -1965266350384738439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_62
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 382
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944eaaf8b4f7fed46be2d4ce4d9885f7
+      internalID: -6615966180482289059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_63
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 382
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782510a873469364aa9b0f41249b3c9c
+      internalID: -8335805777898631648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0169deca8ad941a46bab5399ca317c8e
+      internalID: -3391624184525596989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_65
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 191
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1036851410746a4cab3bc36773d55e8
+      internalID: 1698183782976869394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_66
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 191
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370122866a5a9194b8691d2b1d03de11
+      internalID: -1607847594145888134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_67
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 191
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dea6693e6ba75544863a2eeb28b9ebe
+      internalID: -3008943978485911907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_68
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 191
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47099178c8ace1e479d9614f8d292fac
+      internalID: 5344782861863914156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_69
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 191
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f58d0259734588449155e697c7472f9
+      internalID: -1734080158870832122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_70
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 191
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210e1799467b37446be49770554c91d2
+      internalID: -3557750014796647937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_71
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 191
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594cc20a85d5f6f40b28501a850009be
+      internalID: -7590958678785538843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a08013d26db73448d1f266cb06579c
+      internalID: 155926069557951516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_73
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 0
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb67a428cc1e75a4cb20567d3d2b1352
+      internalID: 1336476713944372266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_74
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 0
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62a23b4fc18cda47b45c973b6a52816
+      internalID: -2640348253458368254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Idle_75
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 0
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0617a1300151d049944cf1ab16c3900
+      internalID: 6417599249277795713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

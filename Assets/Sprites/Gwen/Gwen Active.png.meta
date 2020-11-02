@@ -1,0 +1,1903 @@
+fileFormatVersion: 2
+guid: 26271382ec0253c4082561ad160a252e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3464317415914258927
+    second: Gwen Active_0
+  - first:
+      213: 2145670089862872446
+    second: Gwen Active_1
+  - first:
+      213: -4352295659762836231
+    second: Gwen Active_2
+  - first:
+      213: -5416468227378183380
+    second: Gwen Active_3
+  - first:
+      213: -6582348510541979429
+    second: Gwen Active_4
+  - first:
+      213: -6911527100038039658
+    second: Gwen Active_5
+  - first:
+      213: 7684632070657868105
+    second: Gwen Active_6
+  - first:
+      213: -3118118663895831398
+    second: Gwen Active_7
+  - first:
+      213: 3312999601999786774
+    second: Gwen Active_8
+  - first:
+      213: -5337898616908500438
+    second: Gwen Active_9
+  - first:
+      213: -8514643846419570576
+    second: Gwen Active_10
+  - first:
+      213: -3997133750150368779
+    second: Gwen Active_11
+  - first:
+      213: 3965319955238379185
+    second: Gwen Active_12
+  - first:
+      213: -3438917558087549185
+    second: Gwen Active_13
+  - first:
+      213: 7463093334571896209
+    second: Gwen Active_14
+  - first:
+      213: -6447841480843094104
+    second: Gwen Active_15
+  - first:
+      213: -3533819895862244878
+    second: Gwen Active_16
+  - first:
+      213: -850576696883872089
+    second: Gwen Active_17
+  - first:
+      213: -5642851473897203310
+    second: Gwen Active_18
+  - first:
+      213: -2421152074326109111
+    second: Gwen Active_19
+  - first:
+      213: -8736083865343701617
+    second: Gwen Active_20
+  - first:
+      213: -5101066689363873763
+    second: Gwen Active_21
+  - first:
+      213: -3397557864169576968
+    second: Gwen Active_22
+  - first:
+      213: 3050947322800941613
+    second: Gwen Active_23
+  - first:
+      213: 7862475040262597142
+    second: Gwen Active_24
+  - first:
+      213: 6700500609943863422
+    second: Gwen Active_25
+  - first:
+      213: 6811555235813238022
+    second: Gwen Active_26
+  - first:
+      213: 980670127574863533
+    second: Gwen Active_27
+  - first:
+      213: -1815576208291171912
+    second: Gwen Active_28
+  - first:
+      213: 8059178317985322013
+    second: Gwen Active_29
+  - first:
+      213: -4021787144902460331
+    second: Gwen Active_30
+  - first:
+      213: -1002769230024909131
+    second: Gwen Active_31
+  - first:
+      213: 384531855522636944
+    second: Gwen Active_32
+  - first:
+      213: 3324200536886920571
+    second: Gwen Active_33
+  - first:
+      213: -5478825324063779246
+    second: Gwen Active_34
+  - first:
+      213: 4166307923768910596
+    second: Gwen Active_35
+  - first:
+      213: 2860235549127832392
+    second: Gwen Active_36
+  - first:
+      213: 2675213129753276240
+    second: Gwen Active_37
+  - first:
+      213: -8286879634943748517
+    second: Gwen Active_38
+  - first:
+      213: 5689112328362296696
+    second: Gwen Active_39
+  - first:
+      213: 2431447562076119426
+    second: Gwen Active_40
+  - first:
+      213: 572976776501844560
+    second: Gwen Active_41
+  - first:
+      213: -434841455559623742
+    second: Gwen Active_42
+  - first:
+      213: 3041384980465401453
+    second: Gwen Active_43
+  - first:
+      213: 2466415763148387635
+    second: Gwen Active_44
+  - first:
+      213: 2299583026219993086
+    second: Gwen Active_45
+  - first:
+      213: -5694064102333261609
+    second: Gwen Active_46
+  - first:
+      213: 2815726206673513311
+    second: Gwen Active_47
+  - first:
+      213: 8198812863345021493
+    second: Gwen Active_48
+  - first:
+      213: 6020863840341255431
+    second: Gwen Active_49
+  - first:
+      213: 3055047144084748337
+    second: Gwen Active_50
+  - first:
+      213: -5412019618434782843
+    second: Gwen Active_51
+  - first:
+      213: -7492211438485910045
+    second: Gwen Active_52
+  - first:
+      213: -5466127408781661128
+    second: Gwen Active_53
+  - first:
+      213: 8085059677934682859
+    second: Gwen Active_54
+  - first:
+      213: 1305667468226987364
+    second: Gwen Active_55
+  - first:
+      213: 2370241001061696913
+    second: Gwen Active_56
+  - first:
+      213: 524375534519596568
+    second: Gwen Active_57
+  - first:
+      213: -2815534565057532910
+    second: Gwen Active_58
+  - first:
+      213: -4159869769689650638
+    second: Gwen Active_59
+  - first:
+      213: -4140753954132471041
+    second: Gwen Active_60
+  - first:
+      213: -2477216956535347939
+    second: Gwen Active_61
+  - first:
+      213: -1212122084213709510
+    second: Gwen Active_62
+  - first:
+      213: -1887171680777101268
+    second: Gwen Active_63
+  - first:
+      213: 316093141209376946
+    second: Gwen Active_64
+  - first:
+      213: 6559237192195951723
+    second: Gwen Active_65
+  - first:
+      213: -262427134077627886
+    second: Gwen Active_66
+  - first:
+      213: -6390571229862229240
+    second: Gwen Active_67
+  - first:
+      213: -6774188626204721800
+    second: Gwen Active_68
+  - first:
+      213: 4353689858001277903
+    second: Gwen Active_69
+  - first:
+      213: -523903768726745606
+    second: Gwen Active_70
+  - first:
+      213: 7034357397790763447
+    second: Gwen Active_71
+  - first:
+      213: 5826387535447409175
+    second: Gwen Active_72
+  - first:
+      213: -8633876278304189791
+    second: Gwen Active_73
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gwen Active_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1719
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63d92ef0e775d443bc177aa3dcef66f
+      internalID: -3464317415914258927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1719
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d648bd341f245ff4db239e83647eb619
+      internalID: 2145670089862872446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_2
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1719
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c394115dfbf166a42b76fff6c884f1c9
+      internalID: -4352295659762836231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_3
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1719
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78847f470c19f9428066bd173212c2e
+      internalID: -5416468227378183380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_4
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1719
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d49bc1d2b0bdf74ea971305a4fd55b4
+      internalID: -6582348510541979429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_5
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1719
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6171fd08a53e0c47aa1be17f357f496
+      internalID: -6911527100038039658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_6
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1719
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cedd9a52f981854e9baeeae5f7b31da
+      internalID: 7684632070657868105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_7
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1719
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c575833b9f287cf42884f36208caf3b3
+      internalID: -3118118663895831398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1528
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6250eaf2cc58f2c4ea9c8c2e336c3166
+      internalID: 3312999601999786774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_9
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1528
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3886f01ea152a0b4997b58ae211fdbb8
+      internalID: -5337898616908500438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_10
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1528
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5896d0d595024ab49ae2e3aa635c4f8d
+      internalID: -8514643846419570576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_11
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1528
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2e5dd795bfd204bb411ac794cf50f8
+      internalID: -3997133750150368779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_12
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1528
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86723c0f6da84dd488c36528e84978e0
+      internalID: 3965319955238379185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_13
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1528
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15c84f3428bddd4cbce13fcb98f76ae
+      internalID: -3438917558087549185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_14
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1528
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4f344fee8b5414cbc4f972cfc8dace
+      internalID: 7463093334571896209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_15
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1528
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de47054a1c5b9c94e9ea9f688970ce25
+      internalID: -6447841480843094104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1337
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49916673da0a3534f93e51448513489e
+      internalID: -3533819895862244878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_17
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1337
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d923b4455886b44ead4fb08e5712e8f
+      internalID: -850576696883872089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_18
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1337
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819bb04b662eb9240b20414b56b1ccbd
+      internalID: -5642851473897203310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_19
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1337
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418718dd88390f042a9c095520224e06
+      internalID: -2421152074326109111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_20
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1337
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23b6e3bd52f9e748b5860876d258cea
+      internalID: -8736083865343701617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_21
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1337
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e181a90027be024991b66c176cbc5f1
+      internalID: -5101066689363873763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_22
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1337
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfe28c7a47916347835aecdaf745d03
+      internalID: -3397557864169576968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_23
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1337
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f3383cd6d57884d83bc0db0f81ef2e
+      internalID: 3050947322800941613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1146
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998ca47fdd3dbf04eac2c44d01f345fe
+      internalID: 7862475040262597142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_25
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 1146
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c333a858797c2d4b9227776f7365573
+      internalID: 6700500609943863422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_26
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 1146
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66e34b0304ee574a840bbc65879ff78
+      internalID: 6811555235813238022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_27
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1146
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa95b5d9cbac734a8cecdae79242bd0
+      internalID: 980670127574863533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_28
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1146
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb57272f0acf21449177e5045e9e5f7
+      internalID: -1815576208291171912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_29
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1146
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19155b8c77212284c94a72c4675b5cd2
+      internalID: 8059178317985322013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_30
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1146
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9588b78fdfb93b54a86bc52ab7fd9781
+      internalID: -4021787144902460331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_31
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1146
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecba8fd388ee0345973f2c2aea390b7
+      internalID: -1002769230024909131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 955
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eeaa3b0cfc2e8c4fad694ed54e72018
+      internalID: 384531855522636944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_33
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 955
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75adc8c272074de4796665baff7c3565
+      internalID: 3324200536886920571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_34
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 955
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36aca6576683b8e4fb381bc00f27307e
+      internalID: -5478825324063779246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_35
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 955
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37458c48d3687b49951a01fa6ed2cf4
+      internalID: 4166307923768910596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_36
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 955
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe9edc2dd767784599cf0f0d3c56597
+      internalID: 2860235549127832392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_37
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 955
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3b7fd8837dac643bb98439de4d0a4f
+      internalID: 2675213129753276240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_38
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 955
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb61293e9ffb1148af042848dc6db9c
+      internalID: -8286879634943748517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_39
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 955
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a950f4c36dae041aef21218c5f9fdc
+      internalID: 5689112328362296696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 764
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174f7e1dddc926c43aa74cee6cfd07fb
+      internalID: 2431447562076119426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_41
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 764
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9038e0e2f4d5bde498f1d5d547e786ce
+      internalID: 572976776501844560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_42
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 764
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b89f389d8c3b254481bb17e4338effe
+      internalID: -434841455559623742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_43
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 764
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b7a9b0c8c7b9048a53e2575e9f279c
+      internalID: 3041384980465401453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_44
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 764
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6db074faea45e45bd438f4b6a7c457
+      internalID: 2466415763148387635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_45
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 764
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1af40c152748f4da296efe74bc219e
+      internalID: 2299583026219993086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_46
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 764
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf64531bd0f5e1448c80dd226daeebb
+      internalID: -5694064102333261609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_47
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 764
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d481fb4971ed94e9bf05656cd0935f
+      internalID: 2815726206673513311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 573
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1ac9248931c9a45aa985b333226318
+      internalID: 8198812863345021493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_49
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 573
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfcf60db36924040b4e91bec63d81b7
+      internalID: 6020863840341255431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_50
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 573
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811304b03a283f84c955af1626b079b3
+      internalID: 3055047144084748337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_51
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 573
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64332132e5ef3744a3f86640e516dc4
+      internalID: -5412019618434782843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_52
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 573
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff763551c16a96549995c0afdff7f8a5
+      internalID: -7492211438485910045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_53
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 573
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd015548e16b8c418e93298ca1404e5
+      internalID: -5466127408781661128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_54
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 573
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73077d2fc60790e4d8c5ddf2b1741adc
+      internalID: 8085059677934682859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_55
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 573
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f503c3a03eb7d9419bcc4e0ceb9d92c
+      internalID: 1305667468226987364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 382
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7389c853853261f41a871ff3b032bcf9
+      internalID: 2370241001061696913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_57
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 382
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98385f76cea0de459c0c4cf3e2fe146
+      internalID: 524375534519596568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_58
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 382
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aea6a61759f786449226f4a9d696286
+      internalID: -2815534565057532910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_59
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 382
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e90ed8041f80a43b8472897d871c66
+      internalID: -4159869769689650638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_60
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 382
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb2b0c3f57a1704aa121d0bcb4181fd
+      internalID: -4140753954132471041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_61
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 382
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6915b99ab0e896b4585ba905a1f21ff2
+      internalID: -2477216956535347939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_62
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 382
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea226d883af3de442b2f23c84997ac4b
+      internalID: -1212122084213709510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_63
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 382
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad95d672a8cbe7c48b7ca88618c8a2e9
+      internalID: -1887171680777101268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8df6863bdf707e488e5bc52909e1ab4
+      internalID: 316093141209376946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_65
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 191
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962d0197a27e67d4593eb08df4add5aa
+      internalID: 6559237192195951723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_66
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 191
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38414dd91020f5247b559b9f16359adc
+      internalID: -262427134077627886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_67
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 191
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05987943313900a44a8b74e1bee16272
+      internalID: -6390571229862229240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_68
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 191
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16632e74274d1a478b531de517bd38b
+      internalID: -6774188626204721800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_69
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 191
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952443ad06966a54aaeab3850c127d93
+      internalID: 4353689858001277903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_70
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 191
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca41908b305e4bf4a95ea7b08f302c4d
+      internalID: -523903768726745606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_71
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 191
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe47267fe6b55a4490646d2a98ebec3
+      internalID: 7034357397790763447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1879abc3300920d479c6fdd2447db9c6
+      internalID: 5826387535447409175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gwen Active_73
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 0
+        width: 116
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1aea0f32d6ee34c854a8285cd733d3
+      internalID: -8633876278304189791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

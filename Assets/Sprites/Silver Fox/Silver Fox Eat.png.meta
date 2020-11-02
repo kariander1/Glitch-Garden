@@ -1,0 +1,667 @@
+fileFormatVersion: 2
+guid: 6719b838dfb0fc14d8b976b790c44e38
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4654388856169149802
+    second: npc_fox_fox_silverFox_x1_eat_png_1354839606_0
+  - first:
+      213: 6407409954645918444
+    second: npc_fox_fox_silverFox_x1_eat_png_1354839606_1
+  - first:
+      213: -3617076378380878719
+    second: npc_fox_fox_silverFox_x1_eat_png_1354839606_2
+  - first:
+      213: -759062393400469462
+    second: npc_fox_fox_silverFox_x1_eat_png_1354839606_3
+  - first:
+      213: -4331243890442422850
+    second: npc_fox_fox_silverFox_x1_eat_png_1354839606_4
+  - first:
+      213: 3971118137303269337
+    second: npc_fox_fox_silverFox_x1_eat_png_1354839606_5
+  - first:
+      213: -2693903822135694273
+    second: npc_fox_fox_silverFox_x1_eat_png_1354839606_6
+  - first:
+      213: 48381227584076044
+    second: npc_fox_fox_silverFox_x1_eat_png_1354839606_7
+  - first:
+      213: -4323251079776014315
+    second: npc_fox_fox_silverFox_x1_eat_png_1354839606_8
+  - first:
+      213: 5105578082422012434
+    second: npc_fox_fox_silverFox_x1_eat_png_1354839606_9
+  - first:
+      213: 2127894467094124037
+    second: npc_fox_fox_silverFox_x1_eat_png_1354839606_10
+  - first:
+      213: -4290921632638975044
+    second: npc_fox_fox_silverFox_x1_eat_png_1354839606_11
+  - first:
+      213: -6460146000989000256
+    second: npc_fox_fox_silverFox_x1_eat_png_1354839606_12
+  - first:
+      213: 8965329458257032889
+    second: npc_fox_fox_silverFox_x1_eat_png_1354839606_13
+  - first:
+      213: -7948881197521272596
+    second: npc_fox_fox_silverFox_x1_eat_png_1354839606_14
+  - first:
+      213: 3545171381368151109
+    second: npc_fox_fox_silverFox_x1_eat_png_1354839606_15
+  - first:
+      213: 1723144171146153578
+    second: npc_fox_fox_silverFox_x1_eat_png_1354839606_16
+  - first:
+      213: 7346963583572443320
+    second: npc_fox_fox_silverFox_x1_eat_png_1354839606_17
+  - first:
+      213: 6787652891706899862
+    second: npc_fox_fox_silverFox_x1_eat_png_1354839606_18
+  - first:
+      213: 7330092678634289636
+    second: npc_fox_fox_silverFox_x1_eat_png_1354839606_19
+  - first:
+      213: 3781621399162676533
+    second: Silver Fox Eat_0
+  - first:
+      213: -8404307798152293363
+    second: Silver Fox Eat_1
+  - first:
+      213: -7724321651056451356
+    second: Silver Fox Eat_2
+  - first:
+      213: -5578976095231752097
+    second: Silver Fox Eat_3
+  - first:
+      213: 7314763352275359243
+    second: Silver Fox Eat_4
+  - first:
+      213: 6016210908424291609
+    second: Silver Fox Eat_5
+  - first:
+      213: 2588091186179790599
+    second: Silver Fox Eat_6
+  - first:
+      213: 3712433709800157427
+    second: Silver Fox Eat_7
+  - first:
+      213: 7870860398236131136
+    second: Silver Fox Eat_8
+  - first:
+      213: 4768631951288725045
+    second: Silver Fox Eat_9
+  - first:
+      213: 7587224941995204760
+    second: Silver Fox Eat_10
+  - first:
+      213: 3386374983661403261
+    second: Silver Fox Eat_11
+  - first:
+      213: -2769258573950900629
+    second: Silver Fox Eat_12
+  - first:
+      213: -4739090148113477843
+    second: Silver Fox Eat_13
+  - first:
+      213: 7545378996285208285
+    second: Silver Fox Eat_14
+  - first:
+      213: -3708255614681006360
+    second: Silver Fox Eat_15
+  - first:
+      213: 1707891663201888949
+    second: Silver Fox Eat_16
+  - first:
+      213: 4031851921980077880
+    second: Silver Fox Eat_17
+  - first:
+      213: -2626052686280734509
+    second: Silver Fox Eat_18
+  - first:
+      213: 1355519994519657896
+    second: Silver Fox Eat_19
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Silver Fox Eat_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 417
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59484d789f09dce4abe652f23fe6d35f
+      internalID: 3781621399162676533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Silver Fox Eat_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 417
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800fbb859ed03a1499783546b567d54a
+      internalID: -8404307798152293363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Silver Fox Eat_2
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 417
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79074b3819722644491bc9f3e82ff4de
+      internalID: -7724321651056451356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Silver Fox Eat_3
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 417
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f6c0b7f24dfe848866c4417dfd587e
+      internalID: -5578976095231752097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Silver Fox Eat_4
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 417
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4748ceeb7ea6b764db395543c8bf418a
+      internalID: 7314763352275359243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Silver Fox Eat_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 278
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754ab5cc2c98d2b479285287f2eb933e
+      internalID: 6016210908424291609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Silver Fox Eat_6
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 278
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d94945bd3c6d6f469e3f1136cb73c7b
+      internalID: 2588091186179790599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Silver Fox Eat_7
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 278
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3a06e6080a4544fb3089c5f2bebf1b
+      internalID: 3712433709800157427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Silver Fox Eat_8
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 278
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49003bfdbd76c8b4082e56ddca233314
+      internalID: 7870860398236131136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Silver Fox Eat_9
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 278
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eeddd0c099f39d4383f11347104ce71
+      internalID: 4768631951288725045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Silver Fox Eat_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e27507d18a4de47a70d3d11dbaef96
+      internalID: 7587224941995204760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Silver Fox Eat_11
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 139
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df36be1e82392c94ca05e3518b941a57
+      internalID: 3386374983661403261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Silver Fox Eat_12
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 139
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf46dc6e90e1984ba699539f8a17627
+      internalID: -2769258573950900629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Silver Fox Eat_13
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 139
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172a9413cffda004a9e95f097ff1de90
+      internalID: -4739090148113477843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Silver Fox Eat_14
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 139
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5f6e3174c9c344cbc2aceebc2e34fa
+      internalID: 7545378996285208285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Silver Fox Eat_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eab89df005fd074a803631bcaf3cb32
+      internalID: -3708255614681006360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Silver Fox Eat_16
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f84460254d6807408caf598dbc090c8
+      internalID: 1707891663201888949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Silver Fox Eat_17
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 0
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1075831fa393eb74ab68e4160d0f0cf2
+      internalID: 4031851921980077880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Silver Fox Eat_18
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 0
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6eaae549dd3754097aebcc1a7d833f
+      internalID: -2626052686280734509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Silver Fox Eat_19
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 0
+        width: 153
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597677261c294a745ad8bcfc52b8e4f6
+      internalID: 1355519994519657896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

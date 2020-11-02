@@ -1,0 +1,463 @@
+fileFormatVersion: 2
+guid: f8dd9280cc7d5e44f9d91f58d02931a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2421661040670763289
+    second: npc_juju_bandit_bandana_red_variant_yellow_x1_swipe_png_1354834229_0
+  - first:
+      213: 5091832906291481569
+    second: npc_juju_bandit_bandana_red_variant_yellow_x1_swipe_png_1354834229_1
+  - first:
+      213: -8517247495865200993
+    second: npc_juju_bandit_bandana_red_variant_yellow_x1_swipe_png_1354834229_2
+  - first:
+      213: -7391518927467818376
+    second: npc_juju_bandit_bandana_red_variant_yellow_x1_swipe_png_1354834229_3
+  - first:
+      213: -1299914761878119649
+    second: npc_juju_bandit_bandana_red_variant_yellow_x1_swipe_png_1354834229_4
+  - first:
+      213: -2586987925041728743
+    second: npc_juju_bandit_bandana_red_variant_yellow_x1_swipe_png_1354834229_5
+  - first:
+      213: -5930142251972114412
+    second: npc_juju_bandit_bandana_red_variant_yellow_x1_swipe_png_1354834229_6
+  - first:
+      213: 3373471893913696408
+    second: npc_juju_bandit_bandana_red_variant_yellow_x1_swipe_png_1354834229_7
+  - first:
+      213: -6954108374454006968
+    second: npc_juju_bandit_bandana_red_variant_yellow_x1_swipe_png_1354834229_8
+  - first:
+      213: 7111380091809518948
+    second: npc_juju_bandit_bandana_red_variant_yellow_x1_swipe_png_1354834229_9
+  - first:
+      213: -2880473395286773254
+    second: npc_juju_bandit_bandana_red_variant_yellow_x1_swipe_png_1354834229_10
+  - first:
+      213: 3711511310929709552
+    second: npc_juju_bandit_bandana_red_variant_yellow_x1_swipe_png_1354834229_11
+  - first:
+      213: 5342085426170436144
+    second: npc_juju_bandit_bandana_red_variant_yellow_x1_swipe_png_1354834229_12
+  - first:
+      213: 6916095711695338929
+    second: npc_juju_bandit_bandana_red_variant_yellow_x1_swipe_png_1354834229_13
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_juju_bandit_bandana_red_variant_yellow_x1_swipe_png_1354834229_0
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 832
+        width: 93
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bf863bf7653a549b79815c5bd0ea51
+      internalID: 2421661040670763289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_bandit_bandana_red_variant_yellow_x1_swipe_png_1354834229_1
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 832
+        width: 93
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b874c6b87de0724bb0cc6e1b08566af
+      internalID: 5091832906291481569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_bandit_bandana_red_variant_yellow_x1_swipe_png_1354834229_2
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 832
+        width: 94
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831a54c9d8bc7f34b93b2cd91e78319b
+      internalID: -8517247495865200993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_bandit_bandana_red_variant_yellow_x1_swipe_png_1354834229_3
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 832
+        width: 92
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e1d57624869074d9f85e32eea1041b
+      internalID: -7391518927467818376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_bandit_bandana_red_variant_yellow_x1_swipe_png_1354834229_4
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 578
+        width: 97
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0318bb6248526bf4a8e3461e1d1066b8
+      internalID: -1299914761878119649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_bandit_bandana_red_variant_yellow_x1_swipe_png_1354834229_5
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 578
+        width: 104
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93436231e2c3a6409e7059ce3fa6066
+      internalID: -2586987925041728743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_bandit_bandana_red_variant_yellow_x1_swipe_png_1354834229_6
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 578
+        width: 90
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c754b35144571ec4795d3a95ef1738e8
+      internalID: -5930142251972114412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_bandit_bandana_red_variant_yellow_x1_swipe_png_1354834229_7
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 578
+        width: 89
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d22bae05643dd748b7f96f1e3db512f
+      internalID: 3373471893913696408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_bandit_bandana_red_variant_yellow_x1_swipe_png_1354834229_8
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 324
+        width: 88
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579b0407199fab9419b943a5c530806e
+      internalID: -6954108374454006968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_bandit_bandana_red_variant_yellow_x1_swipe_png_1354834229_9
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 324
+        width: 86
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffc819b11f786a44869b293709c2051
+      internalID: 7111380091809518948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_bandit_bandana_red_variant_yellow_x1_swipe_png_1354834229_10
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 324
+        width: 94
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d96db77a6f2604b97bd5ab0e1ae184
+      internalID: -2880473395286773254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_bandit_bandana_red_variant_yellow_x1_swipe_png_1354834229_11
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 324
+        width: 93
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f73707cd9950a043823181548dcb1c2
+      internalID: 3711511310929709552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_bandit_bandana_red_variant_yellow_x1_swipe_png_1354834229_12
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 70
+        width: 93
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f981187f278f7aa4283dc19ea262ddd8
+      internalID: 5342085426170436144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_juju_bandit_bandana_red_variant_yellow_x1_swipe_png_1354834229_13
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 70
+        width: 93
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2241819233ca49f43a6818ada2980c81
+      internalID: 6916095711695338929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
